@@ -1,4 +1,4 @@
-/*Branch-A change*/
+/*Branch A and B change confict fixed*/
 package hu.bme.mit.spaceship;
 
 /**
